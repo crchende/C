@@ -1,4 +1,4 @@
-#Interactiunea cu calculatorul. Afisare date pe ecran (scriere) si citire date de la tastatura.
+# Interactiunea cu calculatorul. Afisare date pe ecran (scriere) si citire date de la tastatura.
 
 Daca interactionam cu cineva, auzim ce ne spune, sau vede ce scrie pe tabla/hartie.
 Putem sa-i transmitem un mesaj, iar apoi interlocutorul ne poate confirma ca l-a primit.
