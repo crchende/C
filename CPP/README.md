@@ -1,8 +1,9 @@
 # Cuprins
 
 1. [Structura program](#Structura-program)
-1. [Interactunea cu calulatorul](#Interactiunea-cu-calculatorul)
+1. [Interactiunea cu calulatorul](#Interactiunea-cu-calculatorul)
 1. [Instructiuni control flux executie](#Instructiuni-control-flux-executie)
+1. [Functii](#Functii)
 1. [Siruri de caractere](#Siruri-de-caractere)
 
 
@@ -203,7 +204,10 @@ Continutul directorului cu codul si fisierele executabile:
 
 
 
+# Functii
+[Cuprins](#Cuprins)
 
+in constructie !
 
 # Siruri de caractere
 [Cuprins](#Cuprins)
