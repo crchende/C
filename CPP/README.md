@@ -3,6 +3,7 @@
 1. [Structura program](#Structura-program)
 1. [Interactunea cu calulatorul](#Interactiunea-cu-calculatorul)
 1. [Instructiuni control flux executie](#Instructiuni-control-flux-executie)
+1. [Siruri de caractere](#Siruri-de-caractere)
 
 
 # Structura program
@@ -166,8 +167,7 @@ Instructiunile cu care controlam executia unui program sunt:
 Programul `instructiuni_flux_executie.cpp` prezinta exemple cu toate instructiunile de mai sus si cu comentarii.
 
 
+# Siruri de caractere
+[Cuprins](#Cuprins)
 
-
-
-
-
+in constructie !
