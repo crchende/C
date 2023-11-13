@@ -1,9 +1,9 @@
 # Interactiunea cu calculatorul. Afisare date pe ecran (scriere) si citire date de la tastatura.
 
-Daca interactionam cu cineva, auzim ce ne spune, sau vede ce scrie pe tabla/hartie.
+**Daca interactionam / discutam cu cineva**, auzim ce ne spune, sau vede ce scrie pe tabla/hartie.
 Putem sa-i transmitem un mesaj, iar apoi interlocutorul ne poate confirma ca l-a primit.
 
-Interactiuna cu calculatorul urmeaza acelasi tipar.
+**Interactiuna cu calculatorul urmeaza acelasi tipar.**
 Vrem sa-i transmitem calculatorului o informatie si vrem sa vedem ca acesta a primit-o. In urma procesarii acesteia, ne asteptam sa vedem 
 un rezultat de la calculator.
 
