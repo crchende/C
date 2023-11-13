@@ -23,9 +23,9 @@ Aceasta ne pune la dispozitie, printre altele, doua obiecte:
  - cout
    
 prin care putem lua legatura cu console input - tastatura: cin si cu console-output ecranul.
+
 Fara sa intram in detalii de programare orientata obiect POO(OOP in engleza), trebuie sa ne gandim la
 cin si cout efectiv ca la doua obiecte, cum ar fi de exemplu telecomanda cu care controlez televizorul.
 
-* cout << "text" - directioneaza mesajul din dreapta - "text" catre ecran
-
+* cout << "text"        - directioneaza mesajul din dreapta - "text" catre ecran
 * cin >> nume_variabila - preia de la tastatura ce tastez si pune in variabila numita aici 'nume_variabila'
