@@ -29,3 +29,7 @@ cin si cout efectiv ca la doua obiecte, cum ar fi de exemplu telecomanda cu care
 
 * cout << "text"        - directioneaza mesajul din dreapta - "text" catre ecran
 * cin >> nume_variabila - preia de la tastatura ce tastez si pune in variabila numita aici 'nume_variabila'
+
+
+### Variabila. Ce este o variabila?
+
