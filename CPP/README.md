@@ -6,7 +6,7 @@
 
 
 # Structura program
-
+[Cuprins](#Cuprins)
 ~~~
 # include <iostream>
 using namespace std;
