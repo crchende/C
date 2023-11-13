@@ -12,3 +12,4 @@ Avem browserul Chrome de exemplu.
 Tastam ceva in zona de cautare (search). Cererea este preluata de Chrome si se afiseaza rezultatul cautarii.
 
 La programarea in C / C++ interactiunea se face fie din Consola / Terminal, fie din IDE-ul folosit (ex. Visual Studio Code).
+*(IDE = Integrated Development Environment - o aplicatie care ne ajuta sa scriem cod, sa compilam etc)*
