@@ -164,6 +164,34 @@ Instructiunile cu care controlam executia unui program sunt:
 * break      in instructiunile repetitive (bucle) for sau while sau do/while, iesi din bucla
 * continue   in instructiunile repetitive de mai sus - nu mai duce bucla pana la capat ci treci la urmatoarea valoare
 
+# Exemplu compilare si executie program pe Linux.
+
+Comanda compilare: 
+`g++ -o instructiuni_flux_execiutie.o instructiuni_flux_executie.cpp`
+
+* g++        - compilatorul folosit (gcc pentru C, g++ pentru C++)
+* -o <nume>  - numele fisierului obiect sau executabil creat dupa compilare. Pentru ca avem main, fisierul obiect este si executabil
+* <fisier.c> - numele fisierului sursa care va fi compilat. Unele compilatoare cer ca extensia sa fie .cpp, nu .c.
+               Compilatorul g++ de pe Linux nu cere ca extensia sa fie .cpp (Compilatorul (--de dat nume--) de pe Android cere extensie .cpp
+
+Comanda executie: 
+`./instructiuni_flux_execiutie.o`
+
+* fisierul de mai sus a fost generat in urma compilarii
+
+Directorul unde avem codul, dupa compilare. Se vad atat fisierele sursa cat si cele obiect / executabile.
+
+## *Pe Windows*, extensia pentru fisierele executabile trebuie sa fie .exe.
+Comanda de compilare ar fi:
+`g++ -o instructiuni_flux_execiutie.exe instructiuni_flux_executie.cpp`
+
+Diferenta fata de Linux, este doar extensia fisierului.
+
+##Exemplu captura de ecran cu compilarea si executia programului pe Linux:
+
+![image](https://github.com/crchende/C/assets/57460107/5b69ccdf-e3de-4250-bbc0-fbf67f48db49)
+
+
 Programul `instructiuni_flux_executie.cpp` prezinta exemple cu toate instructiunile de mai sus si cu comentarii.
 
 
