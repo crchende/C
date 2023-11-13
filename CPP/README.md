@@ -18,8 +18,10 @@ La programarea in C / C++ interactiunea se face fie din Consola / Terminal, fie 
 
 Comunicarea cu calculatorul in C++/CPP se poate face prin intermediul bibliotecii standard <iostream>.
 Aceasta ne pune la dispozitie, printre altele, doua obiecte:
+
  - cin
  - cout
+   
 prin care putem lua legatura cu console input - tastatura: cin si cu console-output ecranul.
 Fara sa intram in detalii de programare orientata obiect POO(OOP in engleza), trebuie sa ne gandim la
 cin si cout efectiv ca la doua obiecte, cum ar fi de exemplu telecomanda cu care controlez televizorul.
