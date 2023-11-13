@@ -1,3 +1,8 @@
+# Cuprins
+
+1. [Interactunea cu calulatorul] (# Interactiunea cu calculatorul. Afisare date pe ecran (scriere) si citire date de la tastatura.)
+
+
 # Interactiunea cu calculatorul. Afisare date pe ecran (scriere) si citire date de la tastatura.
 
 **Daca interactionam / discutam cu cineva**, auzim ce ne spune, sau vede ce scrie pe tabla/hartie.
