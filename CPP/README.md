@@ -143,7 +143,7 @@ NOTA:
 * *cin* citeste pana la spatiu sau Enter. Daca tastam mai multe cuvinte separate de spatiu, va fi luat doar primul cuvant
 
 # Instructiuni control flux executie
-
+[Cuprins](#Cuprins)
 ## `if, for, while (do while), break, continue`
 
 ## program: instructiuni_flux_executie.cpp
