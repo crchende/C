@@ -4,9 +4,10 @@
 1. [Instructuni control flux executie](#Instructiuni-control-flux-executie)
 
 
-# Interactiunea cu calculatorul
+# Interactiunea cu calculatorul 
+[Cuprins](#Cuprins)
 
-Afisare date pe ecran (scriere) si citire date de la tastatura.
+## Afisare date pe ecran (scriere) si citire date de la tastatura.
 
 **Daca interactionam / discutam cu cineva**, auzim ce ne spune, sau vede ce scrie pe tabla/hartie.
 Putem sa-i transmitem un mesaj, iar apoi interlocutorul ne poate confirma ca l-a primit.
@@ -110,6 +111,30 @@ unde ce tastam se adauga in obiectul 'cin' iar dupa apasare pe tasta 'Enter' est
 
 NOTA:
 * *cin* citeste pana la spatiu sau Enter. Daca tastam mai multe cuvinte separate de spatiu, va fi luat doar primul cuvant
+
+# Instructuni control flux executie
+
+## `if, for, while (do while), break, continue`
+
+## program: instructiuni_flux_executie.cpp
+
+Cand vrem sa rezolvam o problema de orice fel, de exemplu sa rezolvam o tema la matematica, cautam exercitiile in carte, pentru asta ce face, dam pagina cu pagina pagina (sau pe sarite, dar pentru acest exemplu sa presupunem pagina cu pagina) pana cand ajungam la pagina cu problema de rezolvat - deci avem de repetat o actiune de mai multe ori.
+La fiecare pagina verificam daca am ajuns la ce cautam - de exemplu exercitiul 1 de la 'linia mijlocie'.
+Daca am ajuns, incep sa-l rezolv. Daca nu voi continua cautarea.
+
+Exemple de acest fel, intalnim la fiecare pas.
+Trebuie sa facem alegeri, in functie de alegere continuam pe varianta A sau B sau C etc.
+
+Instructiunie cu care controlam executia unui program sunt:
+
+* if         daca i este par, afiseaza-l
+* for        pentru i de la 1 la 100, cu pas de 1 (i++), afiseaza i
+* while      i = 1, cat timp i < 100, afiseaza i, creste-l pe i cu 1 (i++)
+* break      in instructiunile repetitive (bucle) for sau while sau do/while, iesi din bucla
+* continue   in instructiunile repetitive de mai sus - nu mai duce bucla pana la capat ci treci la urmatoarea valoare
+
+Programul `instructiuni_flux_executie.cpp` prezinta exemple cu toate instructiunile de mai sus si cu comentarii.
+
 
 
 
