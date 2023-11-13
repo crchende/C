@@ -164,6 +164,8 @@ Instructiunile cu care controlam executia unui program sunt:
 * break      in instructiunile repetitive (bucle) for sau while sau do/while, iesi din bucla
 * continue   in instructiunile repetitive de mai sus - nu mai duce bucla pana la capat ci treci la urmatoarea valoare
 
+Programul `instructiuni_flux_executie.cpp` prezinta exemple cu toate instructiunile de mai sus si cu comentarii.
+
 # Exemplu compilare si executie program pe Linux.
 
 Comanda compilare: 
@@ -187,12 +189,11 @@ Comanda de compilare ar fi:
 
 Diferenta fata de Linux, este doar extensia fisierului.
 
-##Exemplu captura de ecran cu compilarea si executia programului pe Linux:
+## Exemplu captura de ecran cu compilarea si executia programului pe Linux:
 
 ![image](https://github.com/crchende/C/assets/57460107/5b69ccdf-e3de-4250-bbc0-fbf67f48db49)
 
 
-Programul `instructiuni_flux_executie.cpp` prezinta exemple cu toate instructiunile de mai sus si cu comentarii.
 
 
 # Siruri de caractere
