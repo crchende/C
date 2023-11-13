@@ -193,6 +193,15 @@ Diferenta fata de Linux, este doar extensia fisierului.
 
 ![image](https://github.com/crchende/C/assets/57460107/5b69ccdf-e3de-4250-bbc0-fbf67f48db49)
 
+Continuare:
+
+![image](https://github.com/crchende/C/assets/57460107/fa47ea81-468f-4f5d-bee1-1e7da6e42845)
+
+Continutul directorului cu codul si fisierele executabile:
+
+![image](https://github.com/crchende/C/assets/57460107/fc47917c-94da-4f66-bce9-88472b272582)
+
+
 
 
 
