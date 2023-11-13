@@ -1,7 +1,7 @@
 # Cuprins
 
 1. [Interactunea cu calulatorul](#Interactiunea-cu-calculatorul)
-1. [Instructuni control flux executie](#Instructiuni-control-flux-executie)
+1. [Instructiuni control flux executie](#Instructiuni-control-flux-executie)
 
 
 # Interactiunea cu calculatorul 
@@ -112,7 +112,7 @@ unde ce tastam se adauga in obiectul 'cin' iar dupa apasare pe tasta 'Enter' est
 NOTA:
 * *cin* citeste pana la spatiu sau Enter. Daca tastam mai multe cuvinte separate de spatiu, va fi luat doar primul cuvant
 
-# Instructuni control flux executie
+# Instructiuni control flux executie
 
 ## `if, for, while (do while), break, continue`
 
@@ -125,7 +125,7 @@ Daca am ajuns, incep sa-l rezolv. Daca nu voi continua cautarea.
 Exemple de acest fel, intalnim la fiecare pas.
 Trebuie sa facem alegeri, in functie de alegere continuam pe varianta A sau B sau C etc.
 
-Instructiunie cu care controlam executia unui program sunt:
+Instructiunile cu care controlam executia unui program sunt:
 
 * if         daca i este par, afiseaza-l
 * for        pentru i de la 1 la 100, cu pas de 1 (i++), afiseaza i
