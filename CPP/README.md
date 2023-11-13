@@ -1,7 +1,37 @@
 # Cuprins
 
+1. [Structura program](#Structura-program)
 1. [Interactunea cu calulatorul](#Interactiunea-cu-calculatorul)
 1. [Instructiuni control flux executie](#Instructiuni-control-flux-executie)
+
+
+# Structura program
+
+~~~
+# include <iostream>
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+~~~
+
+Prima linie include biblioteca standard <iostream> pentru a citi date de la tastatura si pentru a scrie pe ecran.
+(Input - Output stream).
+
+A doua linie ne spune ca vream sa folosim toate elementele din spatiul de nume `std`. 
+Este similar cum m-as referi la un grup de oameni prin numele de familie. Odata menionat acest fapt, pot sa ma refer la fiecare membru al familiei cu numele de botez, fara sa fie nevoie sa-i mai spun numele de familie. Daca vreau sa ma refer la cineva din alta familie trebuie sa folosesc notatia: `nume::prenume`.
+
+`int main() { ... }`
+este functia principala care trebuie sa existe intr-un program C pe care sa-l putem transforma in executabil 
+(pot avea fisiere biblioteca, unde nu avem aceasta functie).
+
+* int      - valoarea returnata
+* main()   - functia principala, de unde va incepe executia programului
+* return 0 - in general cand pornim un program, sistemul de operare asteapta 0 daca executia se termina cu succes sau un intreg diferit de 0 la eroare.
+             in C++ putem avea o funcie main care nu intoarce nimic: void main() {} si nu mai avem return
+             Nu-i complicat sa dam return 0 si main sa fie int. Recomand varianta de mai sus.
 
 
 # Interactiunea cu calculatorul 
