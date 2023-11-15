@@ -1,11 +1,45 @@
 # Cuprins
 
+1. [Carti programare](#Carti-programare)
 1. [Structura program](#Structura-program)
 1. [Interactiunea cu calulatorul](#Interactiunea-cu-calculatorul)
 1. [Instructiuni control flux executie](#Instructiuni-control-flux-executie)
 1. [Functii](#Functii)
 1. [Siruri de caractere](#Siruri-de-caractere)
 
+
+# Carti programare
+1. [Informatica. Curs pentru clasele a IX-a si a X-a. Invata limbarjul C++ standard. Autor: Tudor Sorin](https://www.libris.ro/informatica-invata-limbajul-c-standard-LSS978-973-88037-4-9--p29119818.html?gad_source=1&gclid=CjwKCAiA9dGqBhAqEiwAmRpTC01TyQBjQK8xj0wHytaoVZ8HFmHiGJQkU69JSIRmPMVLUGLo7jRqxBoCBZMQAvD_BwE)
+    <br/>O carte bine structurata pe care o recomand.
+    <br/>Din cuprins:
+    * **Elemente de baza ale limbajului** (Structura programelor, Tipuri de date fundamentale, Expresii)
+    * **Instructiunile limbajului C++** (if, switch, for, while, do-while, break, continue)
+    * **Tablouri (Vectori/Matrice)** (Algoritmi fundamentali care lucreaza cu vectori: minim, maxim, sortare, interclasare, cautare binara etc.)
+    * **Subprograme / Functii** (Structura si apel functii)
+    * **Pointeri si referinte**
+    * **Incapsulare. Tipuri create cu STRUCT**
+    * **Clase (programare orientata obiect POO/OOP)**
+    * **Siruri de caractere** (reprezentare folosind *vectori de caractere* si tipul *string*, pointeri si siruri, functii din *string.h*)
+    * **Fisiere** (creare, citire, scriere)
+    * **Structuri de date** (lista inlantuita, stiva, coada)
+    * **Recursivitate. Introducere** (functii care se autoapeleaza - functii recursive)
+    * **Complexitatea algoritmilor** (Notatia 'O'. Cate operatiuni trebuie facute pentru a rezolva o problema)
+    * **Initiere in programarea generica** (functii si clase template, containere, iteratori)
+
+1. [Informatica. Manual pentru clasa a XI-a. Autori: Mioara Gheorghe etc.](#https://www.elefant.ro/informatica-manual-pentru-clasa-a-xi-a_b2e88e43-e322-4d48-b01a-d1f7ae0ea7f7?gclid=CjwKCAiA9dGqBhAqEiwAmRpTC1zUNl_osDjd4GuCFpDuvmkNQhvu9sMYsm2b62LExf9Asrsze3pIfRoCFqUQAvD_BwE)
+   <br/>O parte din continut este comun cu cartea anterioara
+   <br/>In plus:
+   * **Metode de programare** (*Divide et impera*, *Backtracking*)
+   * **Elemente de teoria grafurilor** (Notiuni de baza, reprezentarea grafurilor, parcurgerea grafurilor neorientate, grafuri orientate: memorare, reprezentare; Arbori)
+
+1. [Informatica. Tehnici de programare. Autor: Tudor Sorin](#https://pdfcoffee.com/tudor-sorin-informaticapdf-pdf-free.html)
+   <br/>Tematica se suprapune peste cea cuprinsa in cartile de mai sus. 
+   <br/>Cuprinde multe probleme rezolvate, cu rezolvarea foarte bine explicata.
+
+
+## Alte carti
+1. [Manuale informatica](#https://ebooks.infobits.ro/15-manuale-de-informatica)
+1. [Carti programare - editura Tudor Sorin](#https://www.infobits.ro/)
 
 # Structura program
 [Cuprins](#Cuprins)
