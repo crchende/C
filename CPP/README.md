@@ -26,13 +26,13 @@
     * **Complexitatea algoritmilor** (Notatia 'O'. Cate operatiuni trebuie facute pentru a rezolva o problema)
     * **Initiere in programarea generica** (functii si clase template, containere, iteratori)
 
-1. [Informatica. Manual pentru clasa a XI-a. Autori: Mioara Gheorghe etc.](#https://www.elefant.ro/informatica-manual-pentru-clasa-a-xi-a_b2e88e43-e322-4d48-b01a-d1f7ae0ea7f7?gclid=CjwKCAiA9dGqBhAqEiwAmRpTC1zUNl_osDjd4GuCFpDuvmkNQhvu9sMYsm2b62LExf9Asrsze3pIfRoCFqUQAvD_BwE)
+1. [Informatica. Manual pentru clasa a XI-a. Autori: Mioara Gheorghe etc.](https://www.elefant.ro/informatica-manual-pentru-clasa-a-xi-a_b2e88e43-e322-4d48-b01a-d1f7ae0ea7f7?gclid=CjwKCAiA9dGqBhAqEiwAmRpTC1zUNl_osDjd4GuCFpDuvmkNQhvu9sMYsm2b62LExf9Asrsze3pIfRoCFqUQAvD_BwE)
    <br/>O parte din continut este comun cu cartea anterioara
    <br/>In plus:
    * **Metode de programare** (*Divide et impera*, *Backtracking*)
    * **Elemente de teoria grafurilor** (Notiuni de baza, reprezentarea grafurilor, parcurgerea grafurilor neorientate, grafuri orientate: memorare, reprezentare; Arbori)
 
-1. [Informatica. Tehnici de programare. Autor: Tudor Sorin](#https://pdfcoffee.com/tudor-sorin-informaticapdf-pdf-free.html)
+1. [Informatica. Tehnici de programare. Autor: Tudor Sorin](https://pdfcoffee.com/tudor-sorin-informaticapdf-pdf-free.html)
    <br/>Tematica se suprapune peste cea cuprinsa in cartile de mai sus. 
    <br/>Cuprinde multe probleme rezolvate, cu rezolvarea foarte bine explicata.
 
