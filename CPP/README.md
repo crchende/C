@@ -1,14 +1,28 @@
 # Cuprins
 
-1. [Carti programare](#Carti-programare)
+1. [Carti de programare](#Carti-de-programare)
 1. [Structura program](#Structura-program)
 1. [Interactiunea cu calulatorul](#Interactiunea-cu-calculatorul)
 1. [Instructiuni control flux executie](#Instructiuni-control-flux-executie)
 1. [Functii](#Functii)
 1. [Siruri de caractere](#Siruri-de-caractere)
 
+# Carti de programare
+[Cuprins](#Cuprins)
 
-# Carti programare
+## Carte de referinta
+* **The C Programming Language. Autori: Dennis Ritchie, Brian Kernighan**
+<br/><br/>O carte incredibila. Contrastul cu manualele de programare este mare. M-a bulversat initial pentru ca nu avea multe exercitii - mi se parea superficiala.
+Surpriza, cand am inceput sa parcurg cartea a fost insa foarte mare. Este o carte profunda, care-ti formeaza gandirea sa poti intelege ce inseamna programarea si cum poti 'vorbi' cu calculatorul.
+Cartea nu este usor de parcurs, necesita efort, dar efortul merita.
+
+## Manuale
+
+Majoritatea manualelor de liceu, au aceeasi tematica ca si cartile prezentate mai jos. Exista multe variante de manuale.
+Nu ma pot pronunta referitor la cat de bune sunt. Nu stiu.
+Le recomand pe cele de mai jos pentru ca mi se pare ca pastreaza un echilibru bun intre a explica limbajul si a face exercitii.
+Exemplele sunt bine alese si te ajuta sa intelegi cum poti vorbi cu calculatorul in limbajul "C"
+
 1. [Informatica. Curs pentru clasele a IX-a si a X-a. Invata limbarjul C++ standard. Autor: Tudor Sorin](https://www.libris.ro/informatica-invata-limbajul-c-standard-LSS978-973-88037-4-9--p29119818.html?gad_source=1&gclid=CjwKCAiA9dGqBhAqEiwAmRpTC01TyQBjQK8xj0wHytaoVZ8HFmHiGJQkU69JSIRmPMVLUGLo7jRqxBoCBZMQAvD_BwE)
     <br/>O carte bine structurata pe care o recomand.
     <br/>Din cuprins:
