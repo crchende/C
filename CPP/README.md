@@ -2,7 +2,7 @@
 
 1. [Carti de programare](#Carti-de-programare)
 1. [Structura program](#Structura-program)
-1. [Tipuri de date](#https://www.programiz.com/c-programming/c-data-types)
+1. [Tipuri de date](#Tipuri-de-date)
 1. [Interactiunea cu calulatorul](#Interactiunea-cu-calculatorul)
 1. [Instructiuni control flux executie](#Instructiuni-control-flux-executie)
 1. [Functii](#Functii)
