@@ -22,7 +22,7 @@ using namespace std;
     (pentru biblioteci definite de utilizator, nu standard, in locul
     parantezelor unghiulare se folosesc ghilimele)
 
-    Functiile cin si cout sunt in spatiul de nume std (standard)
+    Obiectele cin si cout sunt in spatiul de nume std (standard)
     std l-am putea asimila cu un nume de familie, cin si cout cu prenumele
 
     Pentru ca compilatorul C++ sa stie la ce ne referim fie folosim numele
