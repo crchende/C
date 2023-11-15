@@ -1,10 +1,60 @@
 # Cuprins
 
+1. [Carti de programare](#Carti-de-programare)
 1. [Structura program](#Structura-program)
-1. [Interactunea cu calulatorul](#Interactiunea-cu-calculatorul)
+1. [Tipuri de date](#Tipuri-de-date)
+1. [Interactiunea cu calulatorul](#Interactiunea-cu-calculatorul)
 1. [Instructiuni control flux executie](#Instructiuni-control-flux-executie)
+1. [Functii](#Functii)
 1. [Siruri de caractere](#Siruri-de-caractere)
 
+# Carti de programare
+[Cuprins](#Cuprins)
+
+## Carte de referinta
+* **The C Programming Language. Autori: Dennis Ritchie, Brian Kernighan**
+<br/><br/>O carte incredibila. Contrastul cu manualele de programare este mare. M-a bulversat initial pentru ca nu avea multe exercitii - mi se parea superficiala.
+Surpriza, cand am inceput sa parcurg cartea a fost insa foarte mare. Este o carte profunda, care-ti formeaza gandirea sa poti intelege ce inseamna programarea si cum poti 'vorbi' cu calculatorul.
+Cartea nu este usor de parcurs, necesita efort, dar efortul merita.
+
+## Manuale
+
+Majoritatea manualelor de liceu, au aceeasi tematica ca si cartile prezentate mai jos. Exista multe variante de manuale.
+Nu ma pot pronunta referitor la cat de bune sunt. Nu stiu.
+Le recomand pe cele de mai jos pentru ca mi se pare ca pastreaza un echilibru bun intre a explica limbajul si a face exercitii.
+Exemplele sunt bine alese si te ajuta sa intelegi cum poti vorbi cu calculatorul in limbajul "C"
+
+1. [Informatica. Curs pentru clasele a IX-a si a X-a. Invata limbarjul C++ standard. Autor: Tudor Sorin](https://www.libris.ro/informatica-invata-limbajul-c-standard-LSS978-973-88037-4-9--p29119818.html?gad_source=1&gclid=CjwKCAiA9dGqBhAqEiwAmRpTC01TyQBjQK8xj0wHytaoVZ8HFmHiGJQkU69JSIRmPMVLUGLo7jRqxBoCBZMQAvD_BwE)
+    <br/>O carte bine structurata pe care o recomand.
+    <br/>Din cuprins:
+    * **Elemente de baza ale limbajului** (Structura programelor, Tipuri de date fundamentale, Expresii)
+    * **Instructiunile limbajului C++** (if, switch, for, while, do-while, break, continue)
+    * **Tablouri (Vectori/Matrice)** (Algoritmi fundamentali care lucreaza cu vectori: minim, maxim, sortare, interclasare, cautare binara etc.)
+    * **Subprograme / Functii** (Structura si apel functii)
+    * **Pointeri si referinte**
+    * **Incapsulare. Tipuri create cu STRUCT**
+    * **Clase (programare orientata obiect POO/OOP)**
+    * **Siruri de caractere** (reprezentare folosind *vectori de caractere* si tipul *string*, pointeri si siruri, functii din *string.h*)
+    * **Fisiere** (creare, citire, scriere)
+    * **Structuri de date** (lista inlantuita, stiva, coada)
+    * **Recursivitate. Introducere** (functii care se autoapeleaza - functii recursive)
+    * **Complexitatea algoritmilor** (Notatia 'O'. Cate operatiuni trebuie facute pentru a rezolva o problema)
+    * **Initiere in programarea generica** (functii si clase template, containere, iteratori)
+
+1. [Informatica. Manual pentru clasa a XI-a. Autori: Mioara Gheorghe etc.](https://www.elefant.ro/informatica-manual-pentru-clasa-a-xi-a_b2e88e43-e322-4d48-b01a-d1f7ae0ea7f7?gclid=CjwKCAiA9dGqBhAqEiwAmRpTC1zUNl_osDjd4GuCFpDuvmkNQhvu9sMYsm2b62LExf9Asrsze3pIfRoCFqUQAvD_BwE)
+   <br/>O parte din continut este comun cu cartea anterioara
+   <br/>In plus:
+   * **Metode de programare** (*Divide et impera*, *Backtracking*)
+   * **Elemente de teoria grafurilor** (Notiuni de baza, reprezentarea grafurilor, parcurgerea grafurilor neorientate, grafuri orientate: memorare, reprezentare; Arbori)
+
+1. [Informatica. Tehnici de programare. Autor: Tudor Sorin](https://pdfcoffee.com/tudor-sorin-informaticapdf-pdf-free.html)
+   <br/>Tematica se suprapune peste cea cuprinsa in cartile de mai sus. 
+   <br/>Cuprinde multe probleme rezolvate, cu rezolvarea foarte bine explicata.
+
+
+## Alte carti
+1. [Manuale informatica](#https://ebooks.infobits.ro/15-manuale-de-informatica)
+1. [Carti programare - editura Tudor Sorin](#https://www.infobits.ro/)
 
 # Structura program
 [Cuprins](#Cuprins)
@@ -34,6 +84,9 @@ este functia principala care trebuie sa existe intr-un program C pe care sa-l pu
              in C++ putem avea o funcie main care nu intoarce nimic: void main() {} si nu mai avem return
              Nu-i complicat sa dam return 0 si main sa fie int. Recomand varianta de mai sus.
 
+# Tipuri de date
+
+[char, int, long, float, double](https://www.programiz.com/c-programming/c-data-types)
 
 # Interactiunea cu calculatorul 
 [Cuprins](#Cuprins)
@@ -203,7 +256,10 @@ Continutul directorului cu codul si fisierele executabile:
 
 
 
+# Functii
+[Cuprins](#Cuprins)
 
+in constructie !
 
 # Siruri de caractere
 [Cuprins](#Cuprins)
