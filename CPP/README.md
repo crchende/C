@@ -2,6 +2,7 @@
 
 1. [Carti de programare](#Carti-de-programare)
 1. [Structura program](#Structura-program)
+1. [Tipuri de date](#https://www.programiz.com/c-programming/c-data-types)
 1. [Interactiunea cu calulatorul](#Interactiunea-cu-calculatorul)
 1. [Instructiuni control flux executie](#Instructiuni-control-flux-executie)
 1. [Functii](#Functii)
@@ -83,6 +84,9 @@ este functia principala care trebuie sa existe intr-un program C pe care sa-l pu
              in C++ putem avea o funcie main care nu intoarce nimic: void main() {} si nu mai avem return
              Nu-i complicat sa dam return 0 si main sa fie int. Recomand varianta de mai sus.
 
+# Tipuri de date
+
+[char, int, long, float, double](https://www.programiz.com/c-programming/c-data-types)
 
 # Interactiunea cu calculatorul 
 [Cuprins](#Cuprins)
