@@ -12,11 +12,25 @@ cuvant , si care e e cuvantul de lungime maxima.
 using namespace std;
 
 //Functia mai poate primi un parametru - grupul de litere cautat
-void verifica_am(char* var_cuvant, int* contor_cuvant) {
+void verifica_am(char* var_cuvant, int &contor_cuvant) {
     if (strstr(var_cuvant, "am")) {
         cout << " -- gasit 'am'" << endl;
-        *contor_cuvant++;                  //BUG nu merge bine asa
-        cout << *contor_cuvant << endl;  
+        contor_cuvant++;                  //BUG nu merge bine asa
+        cout << " -- " << contor_cuvant << endl;  
+    }
+}
+
+void verifica_litera(char* var_cuvant, char litera) {
+    int i = 0;
+    while(var_cuvant[i] != '\0') {
+        if(var_cuvant[i] == litera) {
+            cout << " -- am gasit litera: " << litera << endl;
+            break;
+        }
+        i++;
+        //aici ies din while cand gasesc litera prima data
+        //pot continua si pot numara de cate ori gasesc litera
+        //si pot face functia sa intoarca numarul de aparitii
     }
 }
 
@@ -27,6 +41,15 @@ int main() {
     int l = 0;
 
     int contor_am = 0;
+
+
+    //BUG - daca sirul are mai mult de 15 caractere codul care citeste
+    //      nu functioneaza bine
+    //      Motivul este modul in care lucreaza cin.get
+    //      Trebuie studiata problema si gasita alta solutie
+
+    //Programul merge OK pentru cuvinte de pana la 15 caractere
+    //Caracterele pot fi litere, cifre, spatii
 
     //oprire citire dupa 15 careactere sau apsare pe ENTER
     cout << "Tastati un cuvant: ";
@@ -40,7 +63,8 @@ int main() {
             cout << " -- gasit 'am'" << endl;
         }
         */
-        verifica_am(cuvant, &contor_am);
+        verifica_am(cuvant, contor_am);
+        verifica_litera(cuvant, 'a');
 
         l = strlen(cuvant);
         if(l > lungime) {
