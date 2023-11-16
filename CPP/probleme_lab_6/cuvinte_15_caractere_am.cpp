@@ -42,20 +42,11 @@ int main() {
 
     int contor_am = 0;
 
-
-    //BUG - daca sirul are mai mult de 15 caractere codul care citeste
-    //      nu functioneaza bine
-    //      Motivul este modul in care lucreaza cin.get
-    //      Trebuie studiata problema si gasita alta solutie
-
-    //Programul merge OK pentru cuvinte de pana la 15 caractere
-    //Caracterele pot fi litere, cifre, spatii
-
     //oprire citire dupa 15 careactere sau apsare pe ENTER
     cout << "Tastati un cuvant: ";
-    while(cin.get(cuvant, 15, '\n')) {    
+    while(cin.get(cuvant, 16, '\n')) {    
         cout << "Citit: " << cuvant << endl;
-        cin.get(); //apel necesar pentru a putea citi si cuvantul urmator (\n ramane in buffer)
+        cin.ignore(100, '\n'); //curatare buffer daca tastez mai mult de 15 caractere
 
         /*
         //Inlocuiesc codul de mai jos cu un apel de functie
@@ -67,7 +58,7 @@ int main() {
         verifica_litera(cuvant, 'a');
 
         l = strlen(cuvant);
-        if(l > lungime) {
+        if(l > lungime) {      // >= pentru a retine ultimul cuvant de aceeasi lungime
             lungime = l;
             max_cuvant[0] = '\0'; //necesar pentru a goli vectorul. altfel contateneaza valorile
             strcat(max_cuvant, cuvant);
